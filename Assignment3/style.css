@@ -188,11 +188,6 @@
 
 }
 
-#main-wrapper #main #cards-wrapper .cards:hover .icon{
-    
-    background-image: url("Images\user-blue.png");
-
-}
 
 #main-wrapper #main #cards-wrapper .cards .user{
     width: 30px;
